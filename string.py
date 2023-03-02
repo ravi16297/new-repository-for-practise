@@ -5,3 +5,5 @@ class parent:
         return self.year
 obj=parent()
 print(obj.child())
+print("programme ended")
+
